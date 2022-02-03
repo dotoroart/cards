@@ -4,14 +4,16 @@
 
 Crossbreed Magic is a card game currently in development.
 
-# Rules
+## Rules
 
 ## Gameplay
 
 #### *Setting*
+
 - You are wizards in a shapeshifting encounter.
 
 #### *Objective*
+
 - Drain your oponents vitality and be the last player remaining.
 
 #### *Starting*
@@ -26,11 +28,13 @@ Crossbreed Magic is a card game currently in development.
 - When cards are discarded they go to your Restpile.
 
 #### *Turn*
+
 - _Except first round,_ you must **draw** a card.
 - _Except first round,_ you can **pay** 5 mana once to draw one card.
 - You can **pitch** one card for mana.
 - You can **play** cards by first paying their mana cost.
 - You can **send** Creatures to an Encounter with Opponents.
+
 > *You can do this in any order, until you declare the turn has ended.*
 
 ## Mana
@@ -52,7 +56,7 @@ Crossbreed Magic is a card game currently in development.
 - Unspent mana can be used to respond in opponent's turn.
 - Unspent mana does not carry over to your next turn.
 
-> *Keep track of the mana you spend using counters, grouping, or turning cards.*  
+> *Keep track of the mana you spend using counters, grouping, or turning cards.*   
 > *Put cards in the pool sideways, on the left corner close to you.*
 
 
@@ -83,7 +87,7 @@ Crossbreed Magic is a card game currently in development.
 - When a Creature *succumbs*, Character and Body card are discarded to the Restpile.
 
 
-# Cards
+## Cards
 
 ### General
 
