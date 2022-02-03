@@ -91,7 +91,7 @@
 - You may cast any type of spell from your hand during your turn.
 - There are requirements for a card to be casted.
 
- 
+
 #### *Tapping*
 
 - A *tapped* card is indicated by turning it on it's side.
@@ -170,18 +170,21 @@
 #### *Breed*
 
 - You can can only perform one Action per Breed on a Creature per Encounter
+
 - If an Action is Generic, it is attributed to Breed of the body part that does it.
 
-#### *Countering*
+  
 
 ## Limb
 
-- An Action that is performed with a Limb.
+#### *Action*
+
 - Each Creature can only use one Limb for each of their Breeds in an Encounter.
 
 ## Organ
 
-- An Action that is performed with an Organ
+#### *Action*
+
 - Each Creature can only use one Organ for each of their Breeds in an Encounter.
 
 
