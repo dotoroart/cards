@@ -91,6 +91,10 @@
 - You may cast any type of spell from your hand during your turn.
 - There are requirements for a card to be casted.
 
+#### Instant
+
+- A card that can be played in response to opponents.
+
 
 #### *Tapping*
 
@@ -135,8 +139,6 @@
 
   
 
-  
-
   > Tip: Protect your Avatar with other Creatures when possible.
 
 ## Body
@@ -173,18 +175,17 @@
 
 #### *Shapeshifters*
 
-- *Your Avatar can perform Actions of any Breed.*
-- If your Avatar has a Body, it can only perform Actions of its Breed.
-- If an Action is performed by an Avatar with a Body of its Breed,
-  - that player keeps the card in their hand.
+- *Your Avatar can perform Actions of any Breed*
+- If your Avatar performs an Action **without** a Body of that Breed, **discard** the card.
 
 #### *Breed*
 
 - You can can only perform one Action per Breed on a Creature per Encounter
-
 - If an Action is Generic, it is attributed to Breed of the body part that does it.
 
-  
+#### Responding
+
+​	Actions are Instants, and they can be used to respond.
 
 ## Limb
 
@@ -223,7 +224,13 @@ Locations have Effects on all the cards in the game.
 
 - Event cards are Instants, unless it's denied on the card.
 
-# Classes
+  
+
+  ---
+
+  
+
+# Definitions
 
 ### Breed
 
