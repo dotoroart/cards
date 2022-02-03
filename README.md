@@ -1,12 +1,12 @@
 # Crossbreed Magic
 
-## About
+## *About*
 
 Crossbreed Magic is a physical card game currently in development.
 
-## Rules
+## *Rules*
 
-### Gameplay
+### *Gameplay*
 
 #### *Setting*
 
@@ -37,7 +37,7 @@ Crossbreed Magic is a physical card game currently in development.
 
 > *You can do this in any order, until you declare the turn has ended.*
 
-### Mana
+### *Mana*
 
 #### *Pool*
 
@@ -60,7 +60,7 @@ Crossbreed Magic is a physical card game currently in development.
 > *Put cards in the pool sideways, on the left corner close to you.*
 
 
-### Encounters
+### *Encounters*
 
 #### *Initiation*
 
@@ -89,9 +89,9 @@ Crossbreed Magic is a physical card game currently in development.
 ---
 
 
-# Cards
+## *Cards*
 
-### General
+### *General*
 
 #### *Abilities*
 
@@ -103,7 +103,7 @@ Crossbreed Magic is a physical card game currently in development.
 - You may cast any type of spell from your hand during your turn.
 - There are requirements for a card to be casted.
 
-#### Instant
+#### *Instant*
 
 - A card that can be played in response to opponents.
 
@@ -130,19 +130,19 @@ Crossbreed Magic is a physical card game currently in development.
 
 ---
 
-## Character
+## *Character*
 
 - A Character is a Creature
 
 ---
 
-## Avatar 
+## *Avatar*
 
 - An Avatar is a Creature that represents a Player.
 - It is always on the field from the start of the game.
 - On the first turn, Avatars are **preparing** and cannot attack. 
 
-#### Encountering
+#### *Encountering*
 
 - Your Avatar can go to an encounter like any other creature.
 
@@ -157,7 +157,7 @@ Crossbreed Magic is a physical card game currently in development.
 
 ---
 
-## Body
+## *Body*
 
 #### *Attaching*
 
@@ -180,7 +180,7 @@ Crossbreed Magic is a physical card game currently in development.
 
 ---
 
-## Action
+## *Action*
 
 #### *Performing*
 
@@ -201,17 +201,17 @@ Crossbreed Magic is a physical card game currently in development.
 - You can can only perform one Action per Breed on a Creature per Encounter
 - If an Action is Generic, it is attributed to Breed of the body part that does it.
 
-#### Responding
+#### *Responding*
 
 - Actions are Instants, and they can be used to respond.
 
-## Limb Action
+## *Limb Action*
 
 #### *Action*
 
 - Each Creature can only use one Limb for each of their Breeds in an Encounter.
 
-## Organ Action
+## *Organ Action*
 
 #### *Action*
 
@@ -220,7 +220,7 @@ Crossbreed Magic is a physical card game currently in development.
 ---
 
 
-## Event
+## *Event*
 
 #### *Happening*
 
@@ -234,7 +234,7 @@ Crossbreed Magic is a physical card game currently in development.
 
 ---
 
-## Location
+## *Location*
 
 #### *Arena*
 
@@ -248,14 +248,14 @@ Locations have Effects on all the cards in the game.
 
 ---
 
-### Definitions
+### *Definitions*
 
-#### Breed
+#### *Breed*
 
 - Most cards are classified by their Breed, or they are Generic.
 - The purpose for this is varied, but it is mainly for targeting spells.
 
-#### Hybrid
+#### *Hybrid*
 
 - A Creature is considered Hybrid when it has a Body attached.
 - Hybrids may also be refered to by the Breed of their Body.
