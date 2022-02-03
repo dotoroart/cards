@@ -4,6 +4,8 @@
 @import "{{ site.theme }}";
 
 // theme: leap-day
+header { background-color: #242424; }
+#banner { background-color: #b93939; border-color: #ce5f5f; }
 section h1:first-child, li.h1-tag.first-child { display: none; }
 @media print, screen and (max-width: 1060px) {
     section { border: 1px solid #e5e5e5; padding: 30px; }
