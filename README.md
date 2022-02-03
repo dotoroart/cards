@@ -1,64 +1,52 @@
-# Overview
-
-These are the rules for playing **Crossbreed: Magic, the Card Game**
-The game is in development, so many things may change.
-
-#### Intention
-
-I want to create a simple yet engaging, and hopefully spicy card game.
-I have recently learned to play Magic the Gathering, and I am taking
-much inspiration from it.
-
-
-##### *Introduction*
-
-- You are wizards in a shapeshifting encounter.
-- Drain your oponents vitality and be the last player remaining.
-
 # Rules
 
 ## Gameplay
- 
-##### *Starting*
+
+#### *Setting*
+- You are powerful wizards in a shapeshifting encounter.
+
+#### *Objective*
+- Drain your oponents vitality and be the last player remaining.
+
+#### *Starting*
 
 - Each player starts with 20 points.
 - Each player is dealt 5 cards.
 
-##### *Hand*
+#### *Hand*
 
 - You may not have more than 7 cards in your hand.
 - If you have, you must discard of them by the end of turn.
 - When cards are discarded they go to your Restpile.
 
-##### *Turn*
-
-- _Except first round,_ you draw a card.
-- _Except first round,_ you can pay 5 mana once to draw one card.
-- You can pitch one card for mana.
-- You can play cards by first paying their mana cost.
-- You can Encounter your opponent's Avatar with your Creatures.
-- You can do this in any order, until you declare the turn has ended.
+#### *Turn*
+- _Except first round,_ you must **draw** a card.
+- _Except first round,_ you can **pay** 5 mana once to draw one card.
+- You can **pitch** one card for mana.
+- You can **play** cards by first paying their mana cost.
+- You can **send** Creatures to an Encounter with Opponents.
+> *You can do this in any order, until you declare the turn has ended.*
 
 ## Mana
 
-##### *Pool*
+#### *Pool*
 
 - You have a pool of mana available for you to play cards each turn.
 - Your mana pool is grown by pitching cards to the pool.
 - You can pitch one card per turn, either at beginning or end of turn.
 - At the beginning of your turn your mana replenishes.
 
-##### *Pitch*
+#### *Pitch*
 
 - The pitch value of a card is how much mana it will produce per turn,
 - It is represented by the number of red spheres at the top left corner.
 
-##### *Pay*
+#### *Pay*
 
 - Unspent mana can be used to respond in opponent's turn.
 - Unspent mana does not carry over to your next turn.
 
-> *Keep track of the mana you spend using counters, grouping, or turning cards.*
+> *Keep track of the mana you spend using counters, grouping, or turning cards.*  
 > *Put cards in the pool sideways, on the left corner close to you.*
 
 
@@ -86,11 +74,12 @@ much inspiration from it.
 
 #### *Succumb*
 
-- When a Creature succumbs their Character and Body are discarded to the Restpile.
+- When a Creature *succumbs*, Character and Body card are discarded to the Restpile.
+
 
 # Cards
 
-## General
+### General
 
 #### *Abilities*
 
@@ -109,9 +98,7 @@ much inspiration from it.
 - A card can only be tapped if it's not been tapped already.
 - You untap all your cards at the beginning of your turn.
 
-## Creature
-
-### Character
+### Creature
 
 #### *Calling*
 
@@ -125,13 +112,16 @@ much inspiration from it.
 - It is still able to block an attack, don't confuse with being tapped.
 - Characters get preparing after summoning and after body changing.
 
-### Avatar 
+
+## Character
+
+- A Character is a Creature
+
+## Avatar 
 
 - An Avatar is a Creature that represents a Player.
 - It is always on the field from the start of the game.
-- On the first turn, Avatars are **preparing** and cannot attack.
-
- 
+- On the first turn, Avatars are **preparing** and cannot attack. 
 
 #### Encountering
 
