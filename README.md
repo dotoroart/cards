@@ -2,7 +2,7 @@
 
 ## About
 
-Crossbreed Magic is a card game currently in development.
+Crossbreed Magic is a physical card game currently in development.
 
 ## Rules
 
@@ -86,6 +86,8 @@ Crossbreed Magic is a card game currently in development.
 
 - When a Creature *succumbs*, Character and Body card are discarded to the Restpile.
 
+---
+
 
 # Cards
 
@@ -126,10 +128,13 @@ Crossbreed Magic is a card game currently in development.
 - It is still able to block an attack, don't confuse with being tapped.
 - Characters get preparing after summoning and after body changing.
 
+---
 
 ## Character
 
 - A Character is a Creature
+
+---
 
 ## Avatar 
 
@@ -147,9 +152,10 @@ Crossbreed Magic is a card game currently in development.
 
 - Points dealt above your avatar's toughness are deducted from your life count.
 
-  
 
 > Tip: Protect your Avatar with other Creatures when possible.
+
+---
 
 ## Body
 
@@ -171,6 +177,8 @@ Crossbreed Magic is a card game currently in development.
 #### *Hybrid*
 
 - A Creature becomes Hybrid when it has a Body attached.
+
+---
 
 ## Action
 
@@ -197,30 +205,20 @@ Crossbreed Magic is a card game currently in development.
 
 - Actions are Instants, and they can be used to respond.
 
-## Limb
+## Limb Action
 
 #### *Action*
 
 - Each Creature can only use one Limb for each of their Breeds in an Encounter.
 
-## Organ
+## Organ Action
 
 #### *Action*
 
 - Each Creature can only use one Organ for each of their Breeds in an Encounter.
 
+---
 
-## Location
-
-#### *Arena*
-
-- The Arena is the current location of the game.
-- At the beginning of the game the Arena is Neutral Location.
-- Playing a Location cards changes the Arena to that Location.
-
-#### *Effects*
-
-Locations have Effects on all the cards in the game.
 
 ## Event
 
@@ -236,9 +234,23 @@ Locations have Effects on all the cards in the game.
 
 ---
 
-# Definitions
+## Location
 
-### Breed
+#### *Arena*
+
+- The Arena is the current location of the game.
+- At the beginning of the game the Arena is Neutral Location.
+- Playing a Location cards changes the Arena to that Location.
+
+#### *Effects*
+
+Locations have Effects on all the cards in the game.
+
+---
+
+### Definitions
+
+#### Breed
 
 - Most cards are classified by their Breed, or they are Generic.
 - The purpose for this is varied, but it is mainly for targeting spells.
