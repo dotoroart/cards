@@ -1,6 +1,6 @@
-# Crossbreed Magic: The Card Game
+# Overview
 
-### Overview
+## Gameplay
 
 ##### *Introduction*
 
@@ -46,8 +46,8 @@
 - Unspent mana can be used to respond in opponent's turn.
 - Unspent mana does not carry over to your next turn.
 
-> *(Keep track of the mana you spend using counters, grouping, or turning cards.)*  
-> *(Put cards in the pool sideways, on the left corner close to you.)*
+> *Keep track of the mana you spend using counters, grouping, or turning cards.*
+> *Put cards in the pool sideways, on the left corner close to you.*
 
 
 ## Encounters
@@ -78,6 +78,8 @@
 
 # Cards
 
+## General
+
 #### *Abilities*
 
 - All cards are considered spells
@@ -97,10 +99,12 @@
 
 ## Creature
 
+### Character
+
 #### *Calling*
 
-- When you play a Creature card you *call it* onto the field.
-- You can summon creatures during your turn.
+- When you play a Character card you *call them* onto the field.
+- You can call Characters during your turn.
 - You must first pay their mana cost.
 
 #### *Preparing*
@@ -109,15 +113,7 @@
 - It is still able to block an attack, don't confuse with being tapped.
 - Characters get preparing after summoning and after body changing.
 
-## Character
-
-#### *Creatures*
-
-- Characters are Creatures
-
-## Avatar
-
-##### Player
+### Avatar 
 
 - An Avatar is a Creature that represents a Player.
 - It is always on the field from the start of the game.
@@ -125,7 +121,7 @@
 
  
 
-##### Encountering
+#### Encountering
 
 - Your Avatar can go to an encounter like any other creature.
 - Your Avatar untaps after battle, unlike other Creatures.
@@ -160,14 +156,15 @@ Points dealt above your avatar's toughness are deducted from your life count.
 - *Some Actions must be performed by a specific Sex.*
 - *The sex of a Body does not need to match its Creature.*
 - *After an action card is performed, discard it to the Restpile.*
+- Action cards can be used to respond to opponents on their turn.
+- Each Creature can only use one Action for each of their Breeds in an Encounter.
 
 #### *Shapeshifters*
 
 - *Your Avatar can perform Actions of any Breed.*
 - If your Avatar has a Body, it can only perform Actions of its Breed.
 - If an Action is performed by an Avatar with a Body of its Breed,
-
-that player keeps the card in their hand.
+  - that player keeps the card in their hand.
 
 #### *Breed*
 
@@ -176,7 +173,16 @@ that player keeps the card in their hand.
 
 #### *Countering*
 
-- Action cards are Instants.
+## Limb
+
+- An Action that is performed with a Limb.
+- Each Creature can only use one Limb for each of their Breeds in an Encounter.
+
+## Organ
+
+- An Action that is performed with an Organ
+- Each Creature can only use one Organ for each of their Breeds in an Encounter.
+
 
 ## Location
 
@@ -202,7 +208,7 @@ Locations have Effects on all the cards in the game.
 
 - Event cards are Instants, unless it's denied on the card.
 
-## Classes
+# Classes
 
 ### Breed
 
