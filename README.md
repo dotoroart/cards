@@ -1,3 +1,5 @@
+# Crossbreed Magic
+
 ## About
 
 Crossbreed Magic is a card game currently in development.
@@ -85,7 +87,7 @@ Crossbreed Magic is a card game currently in development.
 - When a Creature *succumbs*, Character and Body card are discarded to the Restpile.
 
 
-## Cards
+# Cards
 
 ### General
 
