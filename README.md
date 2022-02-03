@@ -1,4 +1,4 @@
-# Overview
+# Rules
 
 ## Gameplay
 
@@ -9,7 +9,7 @@
 
 ##### *Starting*
 
-- Each player begins with 20 life points.
+- Each player starts with 20 points.
 - Each player is dealt 5 cards.
 
 ##### *Hand*
@@ -126,8 +126,7 @@
 - Your Avatar can go to an encounter like any other creature.
 - Your Avatar untaps after battle, unlike other Creatures.
 - Your Avatar doesn't succumb when it's body's toughness is reached.
-
-Points dealt above your avatar's toughness are deducted from your life count.
+- Points dealt above your avatar's toughness are deducted from your life count.
 
 > *Tip: Protect your Avatar with other Creatures when possible.*
 
@@ -137,6 +136,7 @@ Points dealt above your avatar's toughness are deducted from your life count.
 
 - You can attach a Body to a Creature by paying it's cost during your turn.
 - You don't need to pay the cost of a Body to attach it to your Avatar.
+- *The sex of a Body and a Creature does not need to match.*
 
 #### *Detaching*
 
@@ -153,8 +153,7 @@ Points dealt above your avatar's toughness are deducted from your life count.
 
 - When an Action Card is played it is performed.
 - *Actions must be performed by a Creature with a Body of their Breed.*
-- *Some Actions must be performed by a specific Sex.*
-- *The sex of a Body does not need to match its Creature.*
+- *Some Actions must be performed by a specific sex.*
 - *After an action card is performed, discard it to the Restpile.*
 - Action cards can be used to respond to opponents on their turn.
 - Each Creature can only use one Action for each of their Breeds in an Encounter.
