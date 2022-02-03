@@ -79,7 +79,7 @@
 
 # Cards
 
-## General
+### General
 
 #### *Abilities*
 
@@ -98,7 +98,7 @@
 - A card can only be tapped if it's not been tapped already.
 - You untap all your cards at the beginning of your turn.
 
-## Creature
+### Creature
 
 #### *Calling*
 
@@ -135,15 +135,21 @@
 
   
 
-  > *Tip: Protect your Avatar with other Creatures when possible.*
+  
+
+  > Tip: Protect your Avatar with other Creatures when possible.
 
 ## Body
 
 #### *Attaching*
 
 - You can attach a Body to a Creature by paying it's cost during your turn.
+
 - You don't need to pay the cost of a Body to attach it to your Avatar.
-- *The sex of a Body and a Creature does not need to match.*
+
+  
+
+  > *The sex of a Body and a Creature does not need to match.*
 
 #### *Detaching*
 
@@ -158,12 +164,12 @@
 
 #### *Performing*
 
-- When an Action Card is played it is performed.
-- *Actions must be performed by a Creature with a Body of their Breed.*
-- *Some Actions must be performed by a specific sex.*
-- *After an action card is performed, discard it to the Restpile.*
-- Action cards can be used to respond to opponents on their turn.
-- Each Creature can only use one Action for each of their Breeds in an Encounter.
+- When an Action card is played, it is performed by a Creature.
+- Actions can only be performed by Creatures matching that Breed.
+- Actions can be performed by Creatures of any sex.
+- Some Human Actions must be performed by a specific sex.
+- Creatures can only use **one** Action for each of their Breeds in an Encounter.
+- Hybrids have more than one Breed.
 
 #### *Shapeshifters*
 
