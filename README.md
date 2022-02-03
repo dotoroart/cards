@@ -126,11 +126,16 @@
 #### Encountering
 
 - Your Avatar can go to an encounter like any other creature.
+
 - Your Avatar untaps after battle, unlike other Creatures.
+
 - Your Avatar doesn't succumb when it's body's toughness is reached.
+
 - Points dealt above your avatar's toughness are deducted from your life count.
 
-> *Tip: Protect your Avatar with other Creatures when possible.*
+  
+
+  > *Tip: Protect your Avatar with other Creatures when possible.*
 
 ## Body
 
