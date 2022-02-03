@@ -2,7 +2,7 @@
 
 ## *About*
 
-Crossbreed Magic is a physical card game currently in development.
+***Crossbreed Magic*** is a physical card game currently in development. This document is the most updated version of the rules. Many things may change, but you can peek around anyway.
 
 ---
 
