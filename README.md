@@ -1,5 +1,3 @@
-# Crossbreed Magic
-
 ## About
 
 Crossbreed Magic is a card game currently in development.
