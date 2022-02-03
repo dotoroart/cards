@@ -12,13 +12,13 @@
 
 #### *Setting*
 
-- You are wizards in a shapeshifting encounter.
+- You are wizards in a shapeshifting sex-battle
 
 #### *Objective*
+- Deal pleasure to your opponents and drain their vitality.
+- The last player remaining wins
 
-- Drain your oponents vitality and be the last player remaining.
-
-#### *Starting*
+#### *Start*
 
 - Each player starts with 20 points.
 - Each player is dealt 5 cards.
