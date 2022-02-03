@@ -1,12 +1,24 @@
-# Rules
+# Overview
 
-## Gameplay
+These are the rules for playing **Crossbreed: Magic, the Card Game**
+The game is in development, so many things may change.
+
+#### Intention
+
+I want to create a simple yet engaging, and hopefully spicy card game.
+I have recently learned to play Magic the Gathering, and I am taking
+much inspiration from it.
+
 
 ##### *Introduction*
 
 - You are wizards in a shapeshifting encounter.
 - Drain your oponents vitality and be the last player remaining.
 
+# Rules
+
+## Gameplay
+ 
 ##### *Starting*
 
 - Each player starts with 20 points.
