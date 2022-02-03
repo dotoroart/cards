@@ -6,7 +6,7 @@ Crossbreed Magic is a card game currently in development.
 
 ## Rules
 
-## Gameplay
+### Gameplay
 
 #### *Setting*
 
@@ -37,7 +37,7 @@ Crossbreed Magic is a card game currently in development.
 
 > *You can do this in any order, until you declare the turn has ended.*
 
-## Mana
+### Mana
 
 #### *Pool*
 
@@ -60,7 +60,7 @@ Crossbreed Magic is a card game currently in development.
 > *Put cards in the pool sideways, on the left corner close to you.*
 
 
-## Encounters
+### Encounters
 
 #### *Initiation*
 
@@ -149,7 +149,7 @@ Crossbreed Magic is a card game currently in development.
 
   
 
-  > Tip: Protect your Avatar with other Creatures when possible.
+> Tip: Protect your Avatar with other Creatures when possible.
 
 ## Body
 
@@ -161,7 +161,7 @@ Crossbreed Magic is a card game currently in development.
 
   
 
-  > *The sex of a Body and a Creature does not need to match.*
+> *The sex of a Body and a Creature does not need to match.*
 
 #### *Detaching*
 
@@ -195,7 +195,7 @@ Crossbreed Magic is a card game currently in development.
 
 #### Responding
 
-​	Actions are Instants, and they can be used to respond.
+- Actions are Instants, and they can be used to respond.
 
 ## Limb
 
@@ -234,11 +234,7 @@ Locations have Effects on all the cards in the game.
 
 - Event cards are Instants, unless it's denied on the card.
 
-  
-
-  ---
-
-  
+---
 
 # Definitions
 
