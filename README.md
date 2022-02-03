@@ -79,7 +79,7 @@
 
 # Cards
 
-### General
+## General
 
 #### *Abilities*
 
@@ -98,7 +98,7 @@
 - A card can only be tapped if it's not been tapped already.
 - You untap all your cards at the beginning of your turn.
 
-### Creature
+## Creature
 
 #### *Calling*
 
