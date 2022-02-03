@@ -4,6 +4,8 @@
 
 Crossbreed Magic is a physical card game currently in development.
 
+---
+
 ## *Rules*
 
 ### *Gameplay*
@@ -37,6 +39,8 @@ Crossbreed Magic is a physical card game currently in development.
 
 > *You can do this in any order, until you declare the turn has ended.*
 
+---
+
 ### *Mana*
 
 #### *Pool*
@@ -59,6 +63,7 @@ Crossbreed Magic is a physical card game currently in development.
 > *Keep track of the mana you spend using counters, grouping, or turning cards.*   
 > *Put cards in the pool sideways, on the left corner close to you.*
 
+---
 
 ### *Encounters*
 
@@ -113,6 +118,8 @@ Crossbreed Magic is a physical card game currently in development.
 - A *tapped* card is indicated by turning it on it's side.
 - A card can only be tapped if it's not been tapped already.
 - You untap all your cards at the beginning of your turn.
+
+---
 
 ### Creature
 
@@ -205,11 +212,15 @@ Crossbreed Magic is a physical card game currently in development.
 
 - Actions are Instants, and they can be used to respond.
 
+---
+
 ## *Limb Action*
 
 #### *Action*
 
 - Each Creature can only use one Limb for each of their Breeds in an Encounter.
+
+---
 
 ## *Organ Action*
 
@@ -218,7 +229,6 @@ Crossbreed Magic is a physical card game currently in development.
 - Each Creature can only use one Organ for each of their Breeds in an Encounter.
 
 ---
-
 
 ## *Event*
 
