@@ -1,9 +1,15 @@
+# Introduction
+
+## About
+
+Crossbreed Magic is a card game currently in development.
+
 # Rules
 
 ## Gameplay
 
 #### *Setting*
-- You are powerful wizards in a shapeshifting encounter.
+- You are wizards in a shapeshifting encounter.
 
 #### *Objective*
 - Drain your oponents vitality and be the last player remaining.
