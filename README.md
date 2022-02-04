@@ -60,9 +60,11 @@ This document is the most updated version of the rules. Many things may not make
 
 ![Mana 0](assets/images/Mana_0.png) ![Mana 1](assets/images/Mana_1.png) ![Mana 2](assets/images/Mana_2.png) ![Mana 3](assets/images/Mana_3.png) ![Mana 4](assets/images/Mana_4.png) ![Mana 5](assets/images/Mana_5.png)
 
+<i class="mana-0"></i>
+
 #### *Pay*
 
-- Unspent mana can be used to respond in opponent's turn.
+- Unspent mana can be used to respond in an opponent's turn.
 - Unspent mana does not carry over to your next turn.
 
 > *Keep track of the mana you spend using counters, grouping, or turning cards.*   
