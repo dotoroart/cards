@@ -12,7 +12,8 @@
 
 #### *Setting*
 
-- You are wizards in a shapeshifting sex-battle
+- You are wizards in a spicy transformation -battle
+
 
 #### *Objective*
 - Deal pleasure to your opponents and drain their vitality.
@@ -214,7 +215,7 @@
 
 ---
 
-## *Limb Action*
+## *Limb*
 
 #### *Action*
 
@@ -222,7 +223,7 @@
 
 ---
 
-## *Organ Action*
+## *Organ*
 
 #### *Action*
 
