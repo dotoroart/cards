@@ -48,10 +48,9 @@ This document is the most updated version of the rules. Many things may not make
 
 #### *Pool*
 
-- You have a pool of mana available for you to play cards each turn.
-- Your mana pool is grown by pitching cards to the pool.
-- You can pitch one card per turn, either at beginning or end of turn.
-- At the beginning of your turn your mana replenishes.
+- You have a pool of mana available to play cards on each turn.
+- You can pitch one card to the pool per turn to increase it.
+- Your pool replenishes at the start of turn.
 
 #### *Pitch*
 
