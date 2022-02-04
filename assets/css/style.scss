@@ -11,5 +11,5 @@ section h1:first-child, li.tag-h1.first-child { display: none; }
 @media print, screen and (max-width: 1060px) {
     section { border: 1px solid #e5e5e5; padding: 30px; }
 }
-#banner #logo { background:(url:"../assets/images/Mana_5.png"); }
+#banner #logo { background:url("../assets/images/Mana_5.png"); }
 #wrapper footer { display: none; }
