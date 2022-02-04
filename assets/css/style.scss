@@ -15,7 +15,8 @@ section h1:first-child, li.tag-h1:first-child { display: none; }
 
 // content
 
-[class^="mana-"] { height: 36px;  width: 36px; }
+[class^="mana-"],
+img[src^="../images/Mana_"] { height: 36px;  width: 36px; }
 .mana-1 { background:url("../images/Mana_1.png"); }
 .mana-2 { background:url("../images/Mana_2.png"); }
 .mana-3 { background:url("../images/Mana_3.png"); }
