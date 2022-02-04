@@ -14,4 +14,6 @@ section h1:first-child, li.tag-h1:first-child { display: none; }
 #banner #logo { background:url("../assets/images/Mana_5.png"); }
 .wrapper > footer { display: none; }
 .wrapper > nav:first-child { top: 145px; }
-.wrapper > section { margin-top: 145px; }
+@media print, screen and (min-width: 1060px) { 
+    .wrapper > section { margin-top: 145px; }
+}
