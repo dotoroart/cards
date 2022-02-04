@@ -2,11 +2,11 @@
 
 ## *About*
 
-***Crossbreed Magic*** is an adult multiplayer card game where the focus is on creating hybrid creatures and mashing them against each other to see who's the one left standing. Or maybe swimming.
+***Crossbreed Magic*** is an adult multiplayer card game where the focus is on creating hybrid creatures and mashing them against each other to see who's left standing. Or maybe swimming.
 
-It attempts to simplify gameplay to the most basic elements of what makes these types of games fun, but it also tries to very explicitly to entertain a certain type of fantasy. If that is not your cup of tea, that's understandable. But for the rest of us, I think there's some fun to be had here.
+It attempts to simplify gameplay to the most basic elements of what makes these types of games fun, but it also tries to very explicitly to entertain a certain type of fantasy. If that is not your cup of tea, that's understandable. But still, if you're interested, there's real fun to be had here.
 
-The game is in early stages of development. This document is the most updated version of the current rules. Many things may not make sense, or might change at some point.
+This document is the most updated version of the current rules. Many things may not make sense, or might change at some point. The game is in early stages of development, cards are being designed and, drawn, tested, etc. For those of you who have access to them, these are the Rules in case you want to try them.
 
 ---
 
