@@ -12,10 +12,11 @@ This document is the most updated version of the rules. Many things may not make
 
 ## *Rules*
 
-#### *Setting*
+#### *Introduction*
 
-- You are shapeshifting Wizards competing in a sexual challenge against each other.
-- You will transform a band of allies into hybrid beasts and send them to brush each other off.
+- You are Wizards with shapeshifting powers in a lusty challenge against each other.
+- Transform your Avatar and Creatures into hybrids to improve their performing abilities
+- Send them to meet your opponents and drain them out in a relentless orgy.
 
 #### *Objective*
 - Deal pleasure to your opponents and drain their points
