@@ -97,8 +97,6 @@
 
 ## *Cards*
 
-### *General*
-
 #### *Abilities*
 
 - All cards are considered spells
