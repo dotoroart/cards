@@ -14,10 +14,4 @@ section h1:first-child, li.tag-h1:first-child { display: none; }
 .wrapper > nav:first-child { top: 145px; }
 
 // content
-
-[class^="mana-"] { height: 36px;  width: 36px; }
-.mana-1 { background:url("../images/Mana_1.png"); }
-.mana-2 { background:url("../images/Mana_2.png"); }
-.mana-3 { background:url("../images/Mana_3.png"); }
-.mana-4 { background:url("../images/Mana_4.png"); }
-.mana-5 { background:url("../images/Mana_5.png"); }
+span.mana > img { height: 36px;  width: 36px; }
