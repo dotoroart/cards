@@ -257,11 +257,10 @@ This document is the most updated version of the rules. Many things may not make
 
 ### *Location*
 
-#### *Arena*
+#### *Current*
 
-- The Arena is the current location of the game.
-- At the beginning of the game the Arena is Neutral Location.
-- Playing a Location cards changes the Arena to that Location.
+- At the beginning the game is in a Neutral Location.
+- Playing a Location card changes the game to that Location.
 
 #### *Effects*
 
