@@ -8,8 +8,6 @@
 
 ## *Rules*
 
-### *Gameplay*
-
 #### *Setting*
 
 - You are wizards in a spicy transformation -battle
