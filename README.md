@@ -138,13 +138,13 @@
 
 ---
 
-## *Character*
+### *Character*
 
 - A Character is a Creature
 
 ---
 
-## *Avatar*
+### *Avatar*
 
 - An Avatar is a Creature that represents a Player.
 - It is always on the field from the start of the game.
@@ -165,7 +165,7 @@
 
 ---
 
-## *Body*
+### *Body*
 
 #### *Attaching*
 
@@ -188,7 +188,7 @@
 
 ---
 
-## *Action*
+### *Action*
 
 #### *Performing*
 
@@ -215,7 +215,7 @@
 
 ---
 
-## *Limb*
+### *Limb*
 
 #### *Action*
 
@@ -223,7 +223,7 @@
 
 ---
 
-## *Organ*
+### *Organ*
 
 #### *Action*
 
@@ -231,7 +231,7 @@
 
 ---
 
-## *Event*
+### *Event*
 
 #### *Happening*
 
@@ -245,7 +245,7 @@
 
 ---
 
-## *Location*
+### *Location*
 
 #### *Arena*
 
