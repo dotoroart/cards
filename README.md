@@ -203,11 +203,9 @@ This document is the most updated version of the rules. Many things may not make
 
 #### *Performing*
 
-- When an Action card is played, it is performed by a Creature.
-- Actions can only be performed by Creatures matching that Breed.
-- Actions can be performed by Creatures of any sex.
-- Some Human Actions must be performed by a specific sex.
-- Creatures can only perform **one** Action per each of their Breeds in an  Encounter
+- When an Action card is played, it must be *performed* by a Creature.
+- Action cards played on your turn are active during the Encounter
+- Action cards
 
 #### *Shapeshifters*
 
@@ -216,8 +214,13 @@ This document is the most updated version of the rules. Many things may not make
 
 #### *Breed*
 
+- Actions can only be performed by Creatures matching their Breed.
+- Actions can be performed by Creatures of any sex.
+- Human Actions must be performed by the specific sex of their card.
+- Creatures can only perform **one** Action per each of their Breeds in an  Encounter
 - You can can only perform one Action per Breed on every Creature per Encounter
 - If an Action is Generic, it is attributed to the Breed of the Body part that performs the Action.
+
 > Hybrid creatures have more than one Breed.
 
 #### *Responding*
