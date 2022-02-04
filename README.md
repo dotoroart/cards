@@ -178,14 +178,16 @@ This document is the most updated version of the rules. Many things may not make
 
 ### *Body*
 
-#### *Attaching*
+#### Transforming
 
 - You can attach a Body to a Creature by paying it's cost during your turn.
-- You don't need to pay the cost of a Body to attach it to your Avatar.
+- It is said that a Creature *transforms* into the Breed that is labeled on the Body card.
+- That Creature also retains the Breed of the top half depicted on their card.
+- The sex of a Body and does not need to match that of the Creature.
+- There is no limit in how many Creatures you can transform on a turn.
+- When a Creature gets a new Body attached, it gets tapped.
 
-> *The sex of a Body and a Creature does not need to match.*
-
-#### *Detaching*
+#### Reverting
 
 - You can detach a Body from a Creature at any time during your turn.
 - If a Body is detached by the end of turn, discard it to the Restpile.
@@ -242,15 +244,10 @@ This document is the most updated version of the rules. Many things may not make
 
 ### *Event*
 
-#### *Happening*
+#### *Duration*
 
-- Events happen when an Event card is played.
-- They can be played in response to counter in opponent's turns.
-- Once the turn ends, a played event card is discarded.
-
-#### *Countering*
-
-- Event cards are Instants, unless it's denied on the card.
+- Events start when an Event card is played, and continue on play.
+- They can also be played in response to counter in opponent's turns.
 
 ---
 
@@ -263,7 +260,7 @@ This document is the most updated version of the rules. Many things may not make
 
 #### *Effects*
 
-Locations have Effects on all the cards in the game.
+- Locations have Effects on all the cards in the game.
 
 ---
 
