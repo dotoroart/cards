@@ -14,13 +14,11 @@ This document is the most updated version of the rules. Many things may not make
 
 #### *Introduction*
 
-- You are Wizards with shapeshifting powers in a lusty challenge against each other.
-- Transform your Avatar and Creatures into hybrids to improve their performing abilities
-- Send them to meet your opponents and drain them out in a relentless orgy.
+- You have shapeshifting powers in a weird sex competition against each other.
+- You can transform your avatar and creatures into hybrids and send them to meet your opponents' in an encounter.
 
 #### *Objective*
-- Deal pleasure to your opponents and drain their points
-- The last player remaining wins
+- Deal pleasure points to your opponents' avatar and drain their counter, until only one player remains.
 
 #### *Start*
 
@@ -30,8 +28,8 @@ This document is the most updated version of the rules. Many things may not make
 #### *Hand*
 
 - You may not have more than 7 cards in your hand.
-- If you have, you must discard of them by the end of turn.
-- When cards are discarded they go to your Restpile.
+- If you have, you must discard by the end of turn.
+- When cards are discarded they go to a zone called your Restpile.
 
 #### *Turn*
 
@@ -198,14 +196,14 @@ This document is the most updated version of the rules. Many things may not make
 
 #### *Performing*
 
-- When an Action card is played, it must be *performed* by a Creature.
-- Action cards played on your turn are active during the Encounter.
-- Action cards
+- When you play an Action card, a Creature must *perform* it.
+- When an Action card is performed, it lasts for the rest of the turn.
 
-#### *Shapeshifters*
+> Play Action cards before an Encounter so they are active in that moment.
 
-- *Your Avatar can perform Actions of any Breed*
-- If your Avatar performs an Action **without** a Body of that Breed, **discard** the card.
+#### *Responding*
+
+- You can play Actions in the opponent's turn to respond to an Encounter.
 
 #### *Breed*
 
@@ -218,9 +216,15 @@ This document is the most updated version of the rules. Many things may not make
 
 > Hybrid creatures have more than one Breed.
 
-#### *Responding*
+#### *Shapeshifters*
 
-- Actions can be used to respond opponents.
+- Your Avatar is a shapeshifter, meaning it can perform Actions of any Breed.
+
+- But, if your Avatar performs an Action without being of that Breed, you must *discard* the Action at the end of that turn.
+
+- While your Avatar is of a Breed, it cannot perform Actions from another.
+
+  > It is preferable to use Actions with a Creature of matching Body if you want to keep using that Action.
 
 ---
 
