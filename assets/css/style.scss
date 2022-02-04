@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 // theme: leap-day
-header { background-color: #242424; }
+header { background-color: #242424; background-image: transparent; }
 #banner { background-color: #b93939; border-color: #ce5f5f; }
 
 section h1:first-child, li.h1-tag.first-child { display: none; }
