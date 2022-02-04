@@ -5,6 +5,7 @@
 
 // theme: leap-day
 header { background-color: #242424; background-image: none; }
+header h1 { text-shadow: 0px 2px 0px #888; }
 #banner { display:none; background-color: #b93939; border-color: #ce5f5f; }
 section h1:first-child, li.tag-h1.first-child { display: none; }
 @media print, screen and (max-width: 1060px) {
