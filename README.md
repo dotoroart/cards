@@ -2,7 +2,7 @@
 
 ## *About*
 
-***Crossbreed Magic*** is an adult multiplayer card game where the focus is on creating hybrid creatures and mashing them against each other to see who's left standing. Or maybe swimming.
+***Crossbreed Magic*** is an adult multiplayer card game where the focus is on creating hybrid creatures and mashing them against each other to see who's the one left up standing, crawling, or swimming.
 
 It attempts to simplify gameplay to the most basic elements of what makes these types of games fun, but it also tries to very explicitly to entertain a certain type of fantasy. If that is not your cup of tea, it's understandable. But still, if you're interested, there's fun to be had.
 
@@ -194,7 +194,8 @@ This document is the most updated version of the rules. Many things may not make
 
 #### *Hybrid*
 
-- A Creature becomes Hybrid when it has a Body attached.
+- A Creature becomes Hybrid when it has a Body of a different Breed attached.
+- A Creature that is Hybrid has more than one Breed.
 
 ---
 
@@ -206,8 +207,7 @@ This document is the most updated version of the rules. Many things may not make
 - Actions can only be performed by Creatures matching that Breed.
 - Actions can be performed by Creatures of any sex.
 - Some Human Actions must be performed by a specific sex.
-- Creatures can only use **one** Action for each of their Breeds in an Encounter.
-- Hybrids have more than one Breed.
+- Creatures can only perform **one** Action per each of their Breeds in an  Encounter
 
 #### *Shapeshifters*
 
@@ -216,12 +216,13 @@ This document is the most updated version of the rules. Many things may not make
 
 #### *Breed*
 
-- You can can only perform one Action per Breed on a Creature per Encounter
-- If an Action is Generic, it is attributed to Breed of the body part that does it.
+- You can can only perform one Action per Breed on every Creature per Encounter
+- If an Action is Generic, it is attributed to the Breed of the Body part that performs the Action.
+> Hybrid creatures have more than one Breed.
 
 #### *Responding*
 
-- Actions are Instants, and they can be used to respond.
+- Actions can be used to respond opponents.
 
 ---
 
@@ -229,7 +230,7 @@ This document is the most updated version of the rules. Many things may not make
 
 #### *Action*
 
-- Each Creature can only use one Limb for each of their Breeds in an Encounter.
+- Each Creature can only use one Limb per Breed they are in an Encounter.
 
 ---
 
@@ -237,7 +238,7 @@ This document is the most updated version of the rules. Many things may not make
 
 #### *Action*
 
-- Each Creature can only use one Organ for each of their Breeds in an Encounter.
+- Each Creature can only use one Organ per Breed they are in an Encounter.
 
 ---
 
