@@ -14,11 +14,11 @@ The game is in early stages of development. This document is the most updated ve
 
 #### *Setting*
 
-- You are wizards in a spicy transformation -battle
-
+- You are shapeshifting Wizards competing in a sexual challenge against each other.
+- You will transform a band of allies into hybrid beasts and send them to brush each other off.
 
 #### *Objective*
-- Deal pleasure to your opponents and drain their vitality.
+- Deal pleasure to your opponents and drain their points
 - The last player remaining wins
 
 #### *Start*
