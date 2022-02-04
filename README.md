@@ -181,10 +181,7 @@ This document is the most updated version of the rules. Many things may not make
 #### *Attaching*
 
 - You can attach a Body to a Creature by paying it's cost during your turn.
-
 - You don't need to pay the cost of a Body to attach it to your Avatar.
-
-  
 
 > *The sex of a Body and a Creature does not need to match.*
 
