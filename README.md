@@ -160,17 +160,12 @@ This document is the most updated version of the rules. Many things may not make
 - It enters the game tapped for the first round.
 - An Avatar doesn't get tapped for changing Body,
 
-
 #### *Encountering*
 
 - Your Avatar can go to an encounter like any other creature.
-
 - Your Avatar untaps after battle, unlike other Creatures.
-
 - Your Avatar doesn't succumb when it's body's toughness is reached.
-
 - Points dealt above your avatar's toughness are deducted from your life count.
-
 
 > Tip: Protect your Avatar with other Creatures when possible.
 
@@ -204,7 +199,7 @@ This document is the most updated version of the rules. Many things may not make
 #### *Performing*
 
 - When an Action card is played, it must be *performed* by a Creature.
-- Action cards played on your turn are active during the Encounter
+- Action cards played on your turn are active during the Encounter.
 - Action cards
 
 #### *Shapeshifters*
