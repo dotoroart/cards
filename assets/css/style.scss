@@ -4,10 +4,10 @@
 @import "{{ site.theme }}";
 
 // theme: leap-day
-header { background-color: #242424; background-image: transparent; }
+header { background-color: #242424; background-image: none; }
 #banner { background-color: #b93939; border-color: #ce5f5f; }
-
 section h1:first-child, li.tag-h1.first-child { display: none; }
 @media print, screen and (max-width: 1060px) {
     section { border: 1px solid #e5e5e5; padding: 30px; }
 }
+#banner #logo { background:(url:"../assets/images/Mana_5.png"); }
