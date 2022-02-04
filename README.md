@@ -55,9 +55,11 @@ This document is the most updated version of the rules. Many things may not make
 #### *Pitch*
 
 - The pitch value of a card is how much mana it will produce per turn,
-- It is represented by the number of red spheres at the top left corner.
+- It is represented by the number of red spheres at the top left corner, from 0 to 5.
 
-<span class="mana">![0 Mana](assets/images/Mana_0.png) ![1 Mana](assets/images/Mana_1.png) ![2 Mana](assets/images/Mana_2.png) ![3 Mana](assets/images/Mana_3.png) ![4 Mana](assets/images/Mana_4.png) ![5 Mana](assets/images/Mana_5.png)</span>
+<span class="mana">
+![0 Mana](assets/images/Mana_0.png) ![1 Mana](assets/images/Mana_1.png) ![2 Mana](assets/images/Mana_2.png) ![3 Mana](assets/images/Mana_3.png) ![4 Mana](assets/images/Mana_4.png) ![5 Mana](assets/images/Mana_5.png)
+</span>
 
 #### *Pay*
 
