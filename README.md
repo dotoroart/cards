@@ -140,11 +140,15 @@
 
 ### *Character*
 
+#### *Creature*
+
 - A Character is a Creature
 
 ---
 
 ### *Avatar*
+
+#### *Creature*
 
 - An Avatar is a Creature that represents a Player.
 - It is always on the field from the start of the game.
