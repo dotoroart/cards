@@ -11,9 +11,14 @@ section h1:first-child, li.tag-h1:first-child { display: none; }
 @media print, screen and (max-width: 1060px) {
     section { border: 1px solid #e5e5e5; padding: 30px; }
 }
-#banner #logo { background:url("../assets/images/Mana_5.png"); }
 .wrapper > footer { display: none; }
 .wrapper > nav:first-child { top: 145px; }
 @media print, screen and (min-width: 1060px) { 
     .wrapper > section { margin-top: 145px; }
 }
+[class^="mana-"] { height: 36px;  width: 36px; }
+.mana-1 { background:url("../images/Mana_1.png"); }
+.mana-2 { background:url("../images/Mana_2.png"); }
+.mana-3 { background:url("../images/Mana_3.png"); }
+.mana-4 { background:url("../images/Mana_4.png"); }
+.mana-5 { background:url("../images/Mana_5.png"); }
