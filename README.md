@@ -4,9 +4,9 @@
 
 ***Crossbreed Magic*** is an adult multiplayer card game where the focus is on creating hybrid creatures and mashing them against each other to see who's left standing. Or maybe swimming.
 
-It attempts to simplify gameplay to the most basic elements of what makes these types of games fun, but it also tries to very explicitly to entertain a certain type of fantasy. If that is not your cup of tea, that's understandable. But still, if you're interested, there's real fun to be had here.
+It attempts to simplify gameplay to the most basic elements of what makes these types of games fun, but it also tries to very explicitly to entertain a certain type of fantasy. If that is not your cup of tea, it's understandable. But still, if you're interested, there's fun to be had.
 
-This document is the most updated version of the current rules. Many things may not make sense, or might change at some point. The game is in early stages of development, cards are being designed and, drawn, tested, etc. For those of you who have access to them, these are the Rules in case you want to try them.
+This document is the most updated version of the rules. Many things may not make sense, or might change at some point. The game is in early stages of development, and cards are being designed, drawn, tested, etc. For those of you who have access to them, these are the rules in case you want to try them.
 
 ---
 
@@ -130,11 +130,12 @@ This document is the most updated version of the current rules. Many things may 
 - You can call Characters during your turn.
 - You must first pay their mana cost.
 
-#### *Preparing*
+#### *Tapped*
 
-- When a creature is **preparing** it cannot attack until the next turn.
-- It is still able to block an attack, don't confuse with being tapped.
-- Characters get preparing after summoning and after body changing.
+- When a creature is **tapped** it cannot attack until the next turn.
+- Characters get tapped:
+  - When summoning
+  - When changing their Body
 
 ---
 
@@ -152,7 +153,9 @@ This document is the most updated version of the current rules. Many things may 
 
 - An Avatar is a Creature that represents a Player.
 - It is always on the field from the start of the game.
-- On the first turn, Avatars are **preparing** and cannot attack. 
+- It enters the game tapped for the first round.
+- An Avatar doesn't get tapped for changing Body,
+
 
 #### *Encountering*
 
