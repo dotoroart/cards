@@ -298,9 +298,7 @@ Locations have Effects on all the cards in the game.
 - A Creature is considered Hybrid when it has a Body attached.
 - Hybrids may also be refered to by the Breed of their Body.
 
-## Design
-
-### Collection
+# Collection
 > How are the cards of the set designed?
 
 #### Objective
