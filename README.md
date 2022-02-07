@@ -294,28 +294,25 @@ This document is the most updated version of the rules. Many things may not make
 # Collection
 > How are the cards of the set designed?
 
-#### Objective
 - The idea is to have a single set of cards that is able to host a game for 2 - 4 players.
-- Between 120 to 240 cards.
+- 120 - 240 cards.
 
 #### Motivation
-- The most reasonable way to play this in cardboard is if a single person can invite others to play.
+- The only easonable way to play this with people is if one has the ability to invite others.
 
 #### Extension
-- Prepare for a game that could be extended, where players could build their own decks.
+- Contemplate a game that could be extended, where players could build their own decks.
 
 #### Possibilities
- - Have I thought about doing the game all digital? Yes.
+ - Have I thought about leaving the game all digital? Yes.
  - Do I really, really, really want to hold these cards in my hand? Also yes.
  - Have I thought about doing something with NFT collectibles? Yes.
  - Do I have any idea how that could be done properly? No.
- - Am I in the right state to research this? Maybe... but probably no.
+ - Am I in the right mental state to research this? Maybe... but probably no.
  - Would it add anything to the game, other than complexity? Not sure...
- - Isn't enough work ahead just designing the game and drawing the base set of cards? Sure.
+ - Isn't enough work just designing and drawing the base set of cards? Totally..
 
 #### Reality
  - I'm only partly human and I can only bear too much before my mind breaks.
- - I am designing things how they "feel right", hoping that magically it will all tie up in the end.
- - I don't know what I'm doing, and I'm surprised at what I've been able to do so far.
- - I also realize there's things I don't know how to draw, and that scares me...
+ - I am designing things how they "feel right", hoping that magically it will all tie up in the end...
  - I hope it turns well!
