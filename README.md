@@ -2,9 +2,13 @@
 
 ## *About*
 
-***Crossbreed Magic*** is an adult multiplayer card game where the focus is on creating hybrid creatures and mashing them against each other to see who's the one left up standing, crawling, or swimming.
+***Crossbreed Magic*** is an adult multiplayer card game where the focus is on creating hybrid creatures and mashing them against each other.
 
-It attempts to simplify gameplay to the most basic elements of what makes these types of games fun, but it also tries to very explicitly to entertain a certain type of fantasy. If that is not your cup of tea, it's understandable. But still, if you're interested, there's fun to be had.
+A simple but fun   with an easy todueling mechanic, 
+
+with simple but entertainmechanics
+
+It attempts to gameplay to the most basic elements of what makes these types of games fun, but it also tries to very explicitly to entertain a certain type of fantasy. If that is not your cup of tea, it's understandable. But still, if you're interested, there's fun to be had.
 
 This document is the most updated version of the rules. Many things may not make sense, or might change at some point. The game is in early stages of development, and cards are being designed, drawn, tested, etc. For those of you who have access to them, these are the rules in case you want to try them.
 
@@ -14,11 +18,13 @@ This document is the most updated version of the rules. Many things may not make
 
 #### *Introduction*
 
-- You have shapeshifting powers in a weird sex competition against each other.
-- You can transform your avatar and creatures into hybrids and send them to meet your opponents' in an encounter.
+- You are Wizards with shapeshifting powers in a lusty challenge against each other.
+- Transform your Avatar and Creatures into hybrids to improve their performing abilities
+- Send them to meet your opponents and drain them out in a relentless orgy.
 
 #### *Objective*
-- Deal pleasure points to your opponents' avatar and drain their counter, until only one player remains.
+- Deal pleasure to your opponents and drain their points
+- The last player remaining wins
 
 #### *Start*
 
@@ -28,8 +34,8 @@ This document is the most updated version of the rules. Many things may not make
 #### *Hand*
 
 - You may not have more than 7 cards in your hand.
-- If you have, you must discard by the end of turn.
-- When cards are discarded they go to a zone called your Restpile.
+- If you have, you must discard of them by the end of turn.
+- When cards are discarded they go to your Restpile.
 
 #### *Turn*
 
@@ -158,12 +164,17 @@ This document is the most updated version of the rules. Many things may not make
 - It enters the game tapped for the first round.
 - An Avatar doesn't get tapped for changing Body,
 
+
 #### *Encountering*
 
 - Your Avatar can go to an encounter like any other creature.
+
 - Your Avatar untaps after battle, unlike other Creatures.
+
 - Your Avatar doesn't succumb when it's body's toughness is reached.
+
 - Points dealt above your avatar's toughness are deducted from your life count.
+
 
 > Tip: Protect your Avatar with other Creatures when possible.
 
@@ -171,16 +182,14 @@ This document is the most updated version of the rules. Many things may not make
 
 ### *Body*
 
-#### Transforming
+#### *Attaching*
 
 - You can attach a Body to a Creature by paying it's cost during your turn.
-- It is said that a Creature *transforms* into the Breed that is labeled on the Body card.
-- That Creature also retains the Breed of the top half depicted on their card.
-- The sex of a Body and does not need to match that of the Creature.
-- There is no limit in how many Creatures you can transform on a turn.
-- When a Creature gets a new Body attached, it gets tapped.
+- You don't need to pay the cost of a Body to attach it to your Avatar.
 
-#### Reverting
+> *The sex of a Body and a Creature does not need to match.*
+
+#### *Detaching*
 
 - You can detach a Body from a Creature at any time during your turn.
 - If a Body is detached by the end of turn, discard it to the Restpile.
@@ -196,35 +205,26 @@ This document is the most updated version of the rules. Many things may not make
 
 #### *Performing*
 
-- When you play an Action card, a Creature must *perform* it.
-- When an Action card is performed, it lasts for the rest of the turn.
-
-> Play Action cards before an Encounter so they are active in that moment.
-
-#### *Responding*
-
-- You can play Actions in the opponent's turn to respond to an Encounter.
-
-#### *Breed*
-
-- Actions can only be performed by Creatures matching their Breed.
+- When an Action card is played, it is performed by a Creature.
+- Actions can only be performed by Creatures matching that Breed.
 - Actions can be performed by Creatures of any sex.
-- Human Actions must be performed by the specific sex of their card.
+- Some Human Actions must be performed by a specific sex.
 - Creatures can only perform **one** Action per each of their Breeds in an  Encounter
-- You can can only perform one Action per Breed on every Creature per Encounter
-- If an Action is Generic, it is attributed to the Breed of the Body part that performs the Action.
-
-> Hybrid creatures have more than one Breed.
 
 #### *Shapeshifters*
 
-- Your Avatar is a shapeshifter, meaning it can perform Actions of any Breed.
+- *Your Avatar can perform Actions of any Breed*
+- If your Avatar performs an Action **without** a Body of that Breed, **discard** the card.
 
-- But, if your Avatar performs an Action without being of that Breed, you must *discard* the Action at the end of that turn.
+#### *Breed*
 
-- While your Avatar is of a Breed, it cannot perform Actions from another.
+- You can can only perform one Action per Breed on every Creature per Encounter
+- If an Action is Generic, it is attributed to the Breed of the Body part that performs the Action.
+> Hybrid creatures have more than one Breed.
 
-  > It is preferable to use Actions with a Creature of matching Body if you want to keep using that Action.
+#### *Responding*
+
+- Actions can be used to respond opponents.
 
 ---
 
@@ -232,7 +232,23 @@ This document is the most updated version of the rules. Many things may not make
 
 #### *Action*
 
-- Each Creature can only use one Limb per Breed they are in an Encounter.
+- Each Creature can only use one Limb card per Breed in an Encounter.
+
+---
+
+### *Genital*
+
+#### *Action*
+
+- Each Creature can only use one Genital card per Breed in an Encounter.
+
+---
+
+### *Mamary*
+
+#### *Action*
+
+- Each Creature can only use one Mamary card per Breed in an Encounter.
 
 ---
 
@@ -240,16 +256,20 @@ This document is the most updated version of the rules. Many things may not make
 
 #### *Action*
 
-- Each Creature can only use one Organ per Breed they are in an Encounter.
+- Each Creature can only use one Organ card per Breed in an Encounter.
 
 ---
-
 ### *Event*
 
-#### *Duration*
+#### *Happening*
 
-- Events start when an Event card is played, and continue on play.
-- They can also be played in response to counter in opponent's turns.
+- Events happen when an Event card is played.
+- They can be played in response to counter in opponent's turns.
+- Once the turn ends, a played event card is discarded.
+
+#### *Countering*
+
+- Event cards are Instants, unless it's denied on the card.
 
 ---
 
@@ -262,7 +282,7 @@ This document is the most updated version of the rules. Many things may not make
 
 #### *Effects*
 
-- Locations have Effects on all the cards in the game.
+Locations have Effects on all the cards in the game.
 
 ---
 
@@ -277,3 +297,34 @@ This document is the most updated version of the rules. Many things may not make
 
 - A Creature is considered Hybrid when it has a Body attached.
 - Hybrids may also be refered to by the Breed of their Body.
+
+## Design
+
+### Collection
+> How are the cards of the set designed?
+
+#### Objective
+- The idea is to have a single set of cards that is able to host a game for 2 - 4 players.
+- Between 120 to 240 cards.
+
+#### Motivation
+- The most reasonable way to play this in cardboard is if a single person can invite others to play.
+
+#### Extension
+- Prepare for a game that could be extended, where players could build their own decks.
+
+#### Possibilities
+ - Have I thought about doing the game all digital? Yes.
+ - Do I really, really, really want to hold these cards in my hand? Also yes.
+ - Have I thought about doing something with NFT collectibles? Yes.
+ - Do I have any idea how that could be done properly? No.
+ - Am I in the right state to research this? Maybe... but probably no.
+ - Would it add anything to the game, other than complexity? Not sure...
+ - Isn't enough work ahead just designing the game and drawing the base set of cards? Sure.
+
+#### Reality
+ - Let's be real, I'm only partly human and I can only bear too much before my mind breaks.
+ - I am designing things how they "feel right", hoping that magically it will all tie up in the end.
+ - I don't know what I'm doing, and I'm surprised at what I've been able to do so far.
+ - I also realize there's things I don't know how to draw, and that scares me...
+ - I hope it turns well!
