@@ -323,7 +323,7 @@ Locations have Effects on all the cards in the game.
  - Isn't enough work ahead just designing the game and drawing the base set of cards? Sure.
 
 #### Reality
- - Let's be real, I'm only partly human and I can only bear too much before my mind breaks.
+ - I'm only partly human and I can only bear too much before my mind breaks.
  - I am designing things how they "feel right", hoping that magically it will all tie up in the end.
  - I don't know what I'm doing, and I'm surprised at what I've been able to do so far.
  - I also realize there's things I don't know how to draw, and that scares me...
