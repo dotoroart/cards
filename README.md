@@ -218,7 +218,7 @@ This document is the most updated version of the rules. Many things may not make
 - Hybrids may also be refered to by the Breed of their Body.
 
 ---
-# Collection
+# Design
 > How are the cards of the set designed?
 
 - The idea is to have a single set of cards that is able to host a game for 2 - 4 players.
