@@ -224,11 +224,8 @@ This document is the most updated version of the rules. Many things may not make
 - The idea is to have a single set of cards that is able to host a game for 2 - 4 players.
 - 120 - 240 cards.
 
-#### Motivation
-- The only easonable way to play this with people is if one has the ability to invite others.
-
 #### Extension
-- Contemplate a game that could be extended, where players could build their own decks.
+- Have in mind a that the game could be extended with more cards, or that players could build their own decks.
 
 #### Possibilities
 - Have I thought about leaving the game all digital? Yes.
