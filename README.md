@@ -168,14 +168,9 @@ This document is the most updated version of the rules. Many things may not make
 #### *Encountering*
 
 - Your Avatar can go to an encounter like any other creature.
-
 - Your Avatar untaps after battle, unlike other Creatures.
-
 - Your Avatar doesn't succumb when it's body's toughness is reached.
-
 - Points dealt above your avatar's toughness are deducted from your life count.
-
-
 > Tip: Protect your Avatar with other Creatures when possible.
 
 ---
@@ -276,27 +271,25 @@ This document is the most updated version of the rules. Many things may not make
 ### *Location*
 
 #### *Current*
-
-- At the beginning the game is in a Neutral Location.
-- Playing a Location card changes the game to that Location.
+- Each player may have a current Location of their own.
+- When you play a Location card, the last Location is discarded.
 
 #### *Effects*
-
-Locations have Effects on all the cards in the game.
+- They are described on the card.
 
 ---
 
 ### *Definitions*
 
 #### *Breed*
-
 - Most cards are classified by their Breed, or they are Generic.
 - The purpose for this is varied, but it is mainly for targeting spells.
 
 #### *Hybrid*
-
 - A Creature is considered Hybrid when it has a Body attached.
 - Hybrids may also be refered to by the Breed of their Body.
+
+---
 
 # Collection
 > How are the cards of the set designed?
