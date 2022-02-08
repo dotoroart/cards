@@ -139,7 +139,7 @@ This document is the most updated version of the rules. Many things may not make
 > Tip: Protect your Avatar with other Creatures when possible.
 
 ---
-### *![Bone](assets/images/Icon_Body.png) Body*
+### *![Bone](assets/images/Icon_Pelvis.png) Body*
 
 #### *Attaching*
 - You can attach a Body to a Creature by paying it's cost during your turn.
