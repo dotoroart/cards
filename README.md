@@ -316,9 +316,11 @@ Cards may be of any of 6 Colors:
 #### *Breeder*
 - Gets +1/+1 in Encounters with another Creature of their Species.
 
-#### *Submerge*
-- Can only be intercepted by creatures with submerge.
+#### *Flying*
+- Can Encounter the opponent's Avatar directly, unless prevented by another Creature with flying.
 
+### *Submerge*
+- Can Encounter the opponent's Avatar directly, unless prevented by another Creature with submerge.
 
 ---
 
