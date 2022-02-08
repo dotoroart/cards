@@ -131,15 +131,13 @@ This document is the most updated version of the rules. Many things may not make
 - The purpose of this is for identifying which can be used with each other.
 
 #### *Color*
-
-- Cards may be of one of 6 Colors.
-- They represent the different families of Breeds:
+Cards may be of any of 6 Colors:
+  - Colorless: Human
   - Red : Hooves
   - Green : Scales
   - Blue : Aquatic
   - Yellow : Paws
   - Purple : Avian
-  - Colorless: Human
 
 ---
 
