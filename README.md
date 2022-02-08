@@ -282,7 +282,7 @@ This document is the most updated version of the rules. Many things may not make
 
 #### Possibilities
 
-- Have I thought about leaving the game all digital? Yes.
+- Have I thought about just making the game digital? Yes.
 - Do I really, really, really want to hold these cards in my hand? Also yes.
 - Have I thought about doing something with NFT collectibles? Yes.
 - Do I have any idea how that could be done properly? No.
