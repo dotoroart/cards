@@ -117,7 +117,7 @@ This document is the most updated version of the rules. Many things may not make
   - When changing their Body
 
 ---
-### *Character*
+### *![Bone](assets/images/Icon_Avatar.png) Character*
 
 #### *Creature*
 - A Character is a Creature
@@ -139,7 +139,7 @@ This document is the most updated version of the rules. Many things may not make
 > Tip: Protect your Avatar with other Creatures when possible.
 
 ---
-### *Body*
+### *![Bone](assets/images/Icon_Body.png) Body*
 
 #### *Attaching*
 - You can attach a Body to a Creature by paying it's cost during your turn.
@@ -155,18 +155,18 @@ This document is the most updated version of the rules. Many things may not make
 - A Creature that is Hybrid has more than one Breed.
 
 ---
-### *Action*
+### *![Bone](assets/images/Icon_Bone.png) Action*
 
 #### *Types*
 
 - There are various types of Action cards.
-- Action cards are identifiable by the category icon of a bone *![Bone](assets/images/Icon_Bone.png)*
+- They are identifiable by the category icon of a bone.
 
 #### *Performing*
 - When an Action card is played, it is performed by a Creature.
 - Actions can only be performed by Creatures matching their Breed.
 - Human Actions must be performed by their specific sex.
-- All the other Actions can be performed by any sex, regardless.
+- Other Actions can be performed by any sex, regardless.
 - Creatures can only perform **one** Action of that category per each of their Breeds in an Encounter.
 
 #### *Shapeshifters*
