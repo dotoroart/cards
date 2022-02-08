@@ -278,7 +278,8 @@ This document is the most updated version of the rules. Many things may not make
 
 #### Extension
 
-- Have in mind a that the game could be extended with more cards, or that players could build their own decks.
+- Have in mind a game that could be extended with more cards.
+- Contemplate the possibility that players could build their own decks.
 
 #### Possibilities
 
@@ -288,7 +289,7 @@ This document is the most updated version of the rules. Many things may not make
 - Do I have any idea how that could be done properly? No.
 - Am I in the right mental state to research this? Maybe... but probably no.
 - Would it add anything to the project, other than complexity? Not sure...
-- Isn't enough work just designing and drawing the base set of cards? Totally..
+- Isn't there enough work just designing and drawing the base set of cards? Totally...
 
 #### Reality
 - I'm only partly human and I can only bear too much before my mind breaks.
