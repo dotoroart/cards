@@ -130,6 +130,7 @@ This document is the most updated version of the rules. Many things may not make
 - It is always on the field from the start of the game.
 - It enters the game tapped for the first round.
 - An Avatar doesn't get tapped for changing Body,
+
 #### *Encountering*
 - Your Avatar can go to an encounter like any other creature.
 - Your Avatar untaps after battle, unlike other Creatures.
@@ -148,6 +149,7 @@ This document is the most updated version of the rules. Many things may not make
 #### *Detaching*
 - You can detach a Body from a Creature at any time during your turn.
 - If a Body is detached by the end of turn, discard it to the Restpile.
+
 #### *Hybrid*
 - A Creature becomes Hybrid when it has a Body of a different Breed attached.
 - A Creature that is Hybrid has more than one Breed.
@@ -166,11 +168,11 @@ This document is the most updated version of the rules. Many things may not make
 - Human Actions must be performed by their specific sex.
 - All the other Actions can be performed by any sex, regardless.
 - Creatures can only perform **one** Action of that category per each of their Breeds in an Encounter.
-- 
+
 #### *Shapeshifters*
 - *Your Avatar can perform Actions of any Breed*
 - If your Avatar performs an Action **without** a Body of that Breed, **discard** the card.
-- 
+
 #### *Breed*
 - You can can only perform one Action per Breed on every Creature per Encounter
 - If an Action is Generic, it is attributed to the Breed of the Body part that performs the Action.
@@ -217,7 +219,7 @@ This document is the most updated version of the rules. Many things may not make
 #### *Breed*
 - Most cards are classified by their Breed, or they are Generic.
 - The purpose for this is varied, but it is mainly for targeting spells.
-- 
+
 #### *Hybrid*
 - A Creature is considered Hybrid when it has a Body attached.
 - Hybrids may also be refered to by the Breed of their Body.
