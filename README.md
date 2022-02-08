@@ -41,6 +41,7 @@ This document is the most updated version of the rules. Many things may not make
 - You can **pitch** one card for mana.
 - You can **play** cards by first paying their mana cost.
 - You can **send** Creatures to an Encounter with Opponents.
+
 > *You can do this in any order, until you declare the turn has ended.*
 
 ---
@@ -57,6 +58,7 @@ This document is the most updated version of the rules. Many things may not make
 
 - The pitch value of a card is how much mana it will produce per turn,
 - It is represented by the number of red spheres at the top left corner, from 0 to 5.
+
 <span class="mana">
 ![0 Mana](assets/images/Mana_0.png) ![1 Mana](assets/images/Mana_1.png) ![2 Mana](assets/images/Mana_2.png) ![3 Mana](assets/images/Mana_3.png) ![4 Mana](assets/images/Mana_4.png) ![5 Mana](assets/images/Mana_5.png)
 </span>
@@ -65,6 +67,7 @@ This document is the most updated version of the rules. Many things may not make
 
 - Unspent mana can be used to respond in an opponent's turn.
 - Unspent mana does not carry over to your next turn.
+
 > *Keep track of the mana you spend using counters, grouping, or turning cards.*   
 > *Put cards in the pool sideways, on the left corner close to you.*
 
@@ -166,8 +169,6 @@ This document is the most updated version of the rules. Many things may not make
 
 - Some Characters have special abilities written on their card.
 
-  
-
 ---
 
 ### *Avatar ![Head](assets/images/Icon_Head.png)*
@@ -185,6 +186,7 @@ This document is the most updated version of the rules. Many things may not make
 - Your Avatar untaps after battle, unlike other Creatures.
 - Your Avatar doesn't succumb when it's body's toughness is reached.
 - Points dealt above your avatar's toughness are deducted from your life count.
+
 > Tip: Protect your Avatar with other Creatures when possible.
 
 ---
@@ -195,6 +197,7 @@ This document is the most updated version of the rules. Many things may not make
 
 - You can attach a Body to a Creature by paying it's cost during your turn.
 - You don't need to pay the cost of a Body to attach it to your Avatar.
+
 > *The sex of a Body and a Creature does not need to match.*
 
 #### *Detaching*
@@ -237,6 +240,7 @@ This document is the most updated version of the rules. Many things may not make
 
 - You can can only perform one Action per Breed on every Creature per Encounter
 - If an Action is Generic, it is attributed to the Breed of the Body part that performs the Action.
+
 > Hybrid creatures have more than one Breed.
 
 #### *Responding*
@@ -282,27 +286,32 @@ This document is the most updated version of the rules. Many things may not make
 ## *Mechanics*
 
 - Cards have special mechanics attached if they have keywords in their text.
+
 > NOTE: These add complexity to the game, which might not be desired...
 
 ### *Creatures*
 > May have any of the following:
 
-#### Unsatiable:
+#### Unsatiable
 - Untaps after an Encounter.
 
-#### Inexhaustible:
+#### Inexhaustible
 - Doesn't succumb to pleasure in an Encounter.
 
-#### Milk:
-- Tap, give +1/+1 to all your Creatures this turn.
+#### Caregiver X
+- Give +X/+X to another Creature while they are on the field.
 
-#### Caregiver X:
-- Gives +X/+X to another Creature while they are on the field.
+#### Milk X
+
+- Tap, give +1/+1 to X Creatures this turn.
+
+#### *Wade X*
+
+
 
 
 
 # Design
-
 > How are the cards of the set designed?
 
 #### Objective
