@@ -230,10 +230,10 @@ This document is the most updated version of the rules. Many things may not make
 ---
 ### *![Hourglass](assets/images/Icon_Hourglass.png) Event*
 
-#### *Happening*
+#### *Happen*
 
 - Events happen when an Event card is played.
-- They can be played in response to counter in opponent's turns.
+- They can be played to counter in opponent's turns.
 - Once the turn ends, a played event card is discarded.
 
 #### *Countering*
@@ -241,6 +241,17 @@ This document is the most updated version of the rules. Many things may not make
 - Event cards are Instants, unless it's denied on the card.
 
 ---
+
+### *![Hourglass](assets/images/Icon_Hourglass.png) Effect*
+
+#### *Activating*
+
+- You activate the effects on an Effect card when you play it.
+- An active Effect card remains on your field, unles removed by another card.
+- They can be played to counter in opponent's turns.
+
+---
+
 ### *![Square](assets/images/Icon_Square.png) Location*
 
 #### *Current*
@@ -248,7 +259,7 @@ This document is the most updated version of the rules. Many things may not make
 - Each player may have a current Location of their own.
 - When you play a Location card, the last Location is discarded.
 
-#### *![Square](assets/images/Icon_Diamond.png) Effects*
+#### *Effects*
 
 - They are described on the card.
 
