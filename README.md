@@ -232,9 +232,13 @@ This document is the most updated version of the rules. Many things may not make
 
 - Actions can be used to respond opponents.
 
+---
+
 ### *Limb ![Bone](assets/images/Icon_Bone.png)*
 
 - Each Creature can use one Limb card per Breed in an Encounter.
+
+---
 
 ### *Organ ![Bone](assets/images/Icon_Bone.png)*
 
