@@ -287,7 +287,7 @@ This document is the most updated version of the rules. Many things may not make
 - Have I thought about doing something with NFT collectibles? Yes.
 - Do I have any idea how that could be done properly? No.
 - Am I in the right mental state to research this? Maybe... but probably no.
-- Would it add anything to the game, other than complexity? Not sure...
+- Would it add anything to the project, other than complexity? Not sure...
 - Isn't enough work just designing and drawing the base set of cards? Totally..
 
 #### Reality
