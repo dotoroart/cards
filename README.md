@@ -162,6 +162,12 @@ This document is the most updated version of the rules. Many things may not make
 - A Creature is considered Hybrid when it has a Body attached.
 - Hybrids may also be refered to by the Breed of their Body.
 
+#### *Abilities*
+
+- Some Characters have special abilities written on their card.
+
+  
+
 ---
 
 ### *Avatar ![Head](assets/images/Icon_Head.png)*
@@ -273,7 +279,30 @@ This document is the most updated version of the rules. Many things may not make
 
 ---
 
+## *Mechanics*
+
+- Cards have special mechanics attached if they have keywords in their text.
+> NOTE: These add complexity to the game, which might not be desired...
+
+### *Creatures*
+> May have any of the following:
+
+#### Unsatiable:
+- Untaps after an Encounter.
+
+#### Inexhaustible:
+- Doesn't succumb to pleasure in an Encounter.
+
+#### Milk:
+- Tap, give +1/+1 to all your Creatures this turn.
+
+#### Caregiver X:
+- Gives +X/+X to another Creature while they are on the field.
+
+
+
 # Design
+
 > How are the cards of the set designed?
 
 #### Objective
