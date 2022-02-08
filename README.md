@@ -210,16 +210,17 @@ This document is the most updated version of the rules. Many things may not make
 
 #### *Types*
 
-- There are various types of Action cards.
-- They are identifiable by the category icon of a bone.
+- There are various types of Action cards, all identifiable by the category icon of a bone.
+
 
 #### *Performing*
 
-- When an Action card is played, it is performed by a Creature.
-- Actions can only be performed by Creatures matching their Breed.
+- When you play an Action card, it must be *performed* by an untapped Creature.
+- Actions can only be performed by a Creature of matching Breed.
 - Human Actions must be performed by their specific sex.
 - Other Actions can be performed by any sex, regardless.
 - Creatures can only perform **one** Action of that category per each of their Breeds in an Encounter.
+- Actions go back to your hand at the end of turn.
 
 #### *Shapeshifters*
 
@@ -254,14 +255,16 @@ Each Creature can only use one Organ card per Breed in an Encounter.
 
 ### *Event ![Hourglass](assets/images/Icon_Hourglass.png)*
 
+- They last for the turn they are played, then are discarded.
 - They can be played to counter an opponent in their turn.
 
 ---
 
-### *Effect ![Hourglass](assets/images/Icon_Hourglass.png)*
+### *Effect ![Asterisk](assets/images/Icon_Asterisk.png)*
 
-- Effect cards remain on the field unless removed.
+- They remain on the field unless removed.
 - They can be played to counter an opponent in their turn.
+- They may incorporate mechanisms to "Cancel" and "Steal to hand".
 
 ---
 
