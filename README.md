@@ -202,21 +202,25 @@ This document is the most updated version of the rules. Many things may not make
 
 #### *Types*
 
-- There are various types of Action cards, all identifiable by the category icon of a bone.
+- There are various types of Action cards
+- They are all identifiable by the category icon of a bone.
+
+#### *Keeping*
+
+- Action Cards go back to your hand at the end of turn.
 
 #### *Performing*
 
-- When you play an Action card, it must be *performed* by an untapped Creature.
-- Actions can only be performed by a Creature of matching Breed.
-- Human Actions must be performed by their specific sex.
-- Other Actions can be performed by any sex, regardless.
-- Creatures can only perform **one** Action of that category per each of their Breeds in an Encounter.
-- Actions go back to your hand at the end of turn.
+- They must be performed by an untapped Creature.
+- They must be performed by a Creature of matching Breed.
+- They can be performed by any sex, regardless of their original depiction.
+- Human Actions are the exception, they must be performed by their specific sex.
 
-#### *Shapeshifters*
+#### *Shapeshifter*
 
-- *Your Avatar can perform Actions of any Breed*
-- If your Avatar performs an Action **without** a Body of that Breed, **discard** the card.
+- Your Avatar is a shapeshifter.
+- Shapeshifters can pefrorm Actions of any Breed.
+- If a shapeshifter performs an Action and is not of that Breed, discard it at the end of turn.
 
 #### *Breed*
 
@@ -230,11 +234,11 @@ This document is the most updated version of the rules. Many things may not make
 
 ### *Limb ![Bone](assets/images/Icon_Bone.png)*
 
-- Each Creature can only use one Limb card per Breed in an Encounter.
+- Each Creature can use one Limb card per Breed in an Encounter.
 
 ### *Organ ![Bone](assets/images/Icon_Bone.png)*
 
-- Each Creature can only use one Organ card per Breed in an Encounter.
+- Each Creature can use one Organ card per Breed in an Encounter.
 
 ---
 
