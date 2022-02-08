@@ -130,6 +130,11 @@ This document is the most updated version of the rules. Many things may not make
 - Cards are typically of a Breed, written on the category bar.
 - The purpose of this is for identifying which can be used with each other.
 
+#### *Species*
+
+- Some effects target cards by their Species.
+- This is usually written on the title of the card, or it is implied by the Breed.
+
 #### *Color*
 Cards may be of any of 6 Colors:
   - Colorless: Human
@@ -300,14 +305,22 @@ Cards may be of any of 6 Colors:
 - Give +X/+X to another Creature while they are on the field.
 
 #### Milk X
-
 - Tap, give +1/+1 to X Creatures this turn.
 
-#### *Wade X*
+#### *Heat*
+- Gets +1/+1 in encounters with more than one opponent Creature.
+
+#### *Provoke*
+-
+
+#### *Breeder*
+- Gets +1/+1 in Encounters with another Creature of their Species.
+
+#### *Submerge*
+- Can only be intercepted by creatures with submerge.
 
 
-
-
+---
 
 # Design
 > How are the cards of the set designed?
