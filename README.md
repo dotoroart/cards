@@ -120,7 +120,6 @@ This document is the most updated version of the rules. Many things may not make
 - A card can only be tapped if it's not been tapped already.
 - You untap all your cards at the beginning of your turn.
 
-
 #### *Color*
 
 - Cards may be of one of 6 Colors.
@@ -159,6 +158,7 @@ This document is the most updated version of the rules. Many things may not make
 - Hybrids may also be refered to by the Breed of their Body.
 
 ---
+
 ### *Avatar ![Head](assets/images/Icon_Head.png)*
 
 #### *Creature*
@@ -177,6 +177,7 @@ This document is the most updated version of the rules. Many things may not make
 > Tip: Protect your Avatar with other Creatures when possible.
 
 ---
+
 ### *Body ![Triangle](assets/images/Icon_Chevron.png)*
 
 #### *Attaching*
@@ -196,12 +197,12 @@ This document is the most updated version of the rules. Many things may not make
 - A Creature that is Hybrid has more than one Breed.
 
 ---
+
 ### *Action ![Bone](assets/images/Icon_Bone.png)*
 
 #### *Types*
 
 - There are various types of Action cards, all identifiable by the category icon of a bone.
-
 
 #### *Performing*
 
@@ -227,19 +228,13 @@ This document is the most updated version of the rules. Many things may not make
 
 - Actions can be used to respond opponents.
 
----
-
 ### *Limb ![Bone](assets/images/Icon_Bone.png)*
-
-#### *Action*
 
 - Each Creature can only use one Limb card per Breed in an Encounter.
 
----
-
 ### *Organ ![Bone](assets/images/Icon_Bone.png)*
 
-Each Creature can only use one Organ card per Breed in an Encounter.
+- Each Creature can only use one Organ card per Breed in an Encounter.
 
 ---
 
@@ -289,6 +284,7 @@ Each Creature can only use one Organ card per Breed in an Encounter.
 - Isn't there enough work just designing and drawing the base set of cards? Totally...
 
 #### Reality
+
 - I'm only partly human and I can only bear too much before my mind breaks.
 - I am designing things how they "feel right", hoping that magically it will all tie up in the end...
 - I hope it turns well!
