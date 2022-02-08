@@ -308,10 +308,10 @@ Cards may be of any of 6 Colors:
 - Tap, give +1/+1 to X Creatures this turn.
 
 #### *Heat*
-- Gets +1/+1 in encounters with more than one opponent Creature.
+- Gets +1/+1 in Encounters with more than one opponent Creature.
 
-#### *Provoke*
--
+#### *Leader*
+- Gives +1/+1 to all Creatures you control.
 
 #### *Breeder*
 - Gets +1/+1 in Encounters with another Creature of their Species.
