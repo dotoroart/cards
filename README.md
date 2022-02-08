@@ -74,12 +74,14 @@ This document is the most updated version of the rules. Many things may not make
 
 #### *Initiation*
 
-- During your turn you can initiate an encounter with another player.
+- During your turn you can initiate an Encounter with another player.
 - You may **tap** and **send** your Creatures to an Encounter with an opponent's Avatar.
-- The receiving player may choose to protect their Avatar by intercepting them.
+
+
 
 #### *Respond*
 
+- The receiving player may choose to protect their Avatar by intercepting them.
 - You can receive an Encounter with different Creatures for different Incomers.
 - You can use unspent mana to play Actions, Limbs and Organs
 - Creatures queue if they encounter various the same target at the same time.
@@ -100,49 +102,52 @@ This document is the most updated version of the rules. Many things may not make
 
 ## *Cards*
 
+#### *Invoking*
+- When you play a card on to the field you *invoke* it.
+- You may invoke any type of card during your turn.
+- You must first pay the cost of a card to invoke it.
+
 #### *Abilities*
 
-- All cards are considered spells
-- Abilities on the card activate when they enter the field.
-- 
-#### *Casting*
+- The abilities on a card activate when are invoked on to the field.
 
-- You may cast any type of spell from your hand during your turn.
-- There are requirements for a card to be casted.
+#### *Instants*
 
-#### *Instant*
-
-- A card that can be played in response to opponents.
+- Some cards are considered *Instants* 
+- These can be invoked during an opponent's turn.
 
 #### *Tapping*
 
-- A *tapped* card is indicated by turning it on it's side.
-- A card can only be tapped if it's not been tapped already.
+- A *tapped* card is indicated by being turned on it's side.
+- A card can only be *tapped* if it's not already.
 - You untap all your cards at the beginning of your turn.
+
+#### *Breed*
+
+- Cards are typically of a Breed, written on the category bar.
+- The purpose of this is for identifying which can be used with each other.
 
 #### *Color*
 
 - Cards may be of one of 6 Colors.
-- They represent different groups of Creatures:
-  - Red : Hooved
+- They represent the different families of Breeds:
+  - Red : Hooves
   - Green : Scales
   - Blue : Aquatic
-  - Yellow : Pawed
+  - Yellow : Paws
   - Purple : Avian
   - Colorless: Human
-
-#### *Breed*
-
-- Cards are typically of some kind of Breed, written on the category bar.
-- The purpose of this is for identifying cards that can be used with each other.
 
 ---
 
 ### *Character ![Head](assets/images/Icon_Head.png)*
 
+#### *Creature*
+
+- A Character is a Creature
+
 #### *Calling*
 
-- A Character is a Creature.
 - When you play a Creature you *call them* onto the field.  
 
 #### *Tapping*
