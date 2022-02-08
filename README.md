@@ -248,7 +248,7 @@ This document is the most updated version of the rules. Many things may not make
 - Each player may have a current Location of their own.
 - When you play a Location card, the last Location is discarded.
 
-#### *Effects*
+#### *![Square](assets/images/Icon_Diamond.png) Effects*
 
 - They are described on the card.
 
