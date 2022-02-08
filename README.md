@@ -120,9 +120,26 @@ This document is the most updated version of the rules. Many things may not make
 - A card can only be tapped if it's not been tapped already.
 - You untap all your cards at the beginning of your turn.
 
+
+#### *Color*
+
+- Cards may be of one of 6 Colors.
+- They represent different groups of Creatures:
+  - Red : Hooved
+  - Green : Scales
+  - Blue : Aquatic
+  - Yellow : Pawed
+  - Purple : Avian
+  - Colorless: Human
+
+#### *Breed*
+
+- Cards are typically of some kind of Breed, written on the category bar.
+- The purpose of this is for identifying cards that can be used with each other.
+
 ---
 
-### *![Head](assets/images/Icon_Head.png) Creature*
+### *Creature ![Head](assets/images/Icon_Head.png)*
 
 #### *Calling*
 
@@ -137,16 +154,22 @@ This document is the most updated version of the rules. Many things may not make
   - When summoning
   - When changing their Body
 
+#### *Hybrid*
+
+- A Creature is considered Hybrid when it has a Body attached.
+- Hybrids may also be refered to by the Breed of their Body.
+
+
 ---
 
-### *![Head](assets/images/Icon_Head.png) Character*
+### *Character ![Head](assets/images/Icon_Head.png)*
 
 #### *Creature*
 
 - A Character is a Creature
 
 ---
-### *![Head](assets/images/Icon_Head.png) Avatar*
+### *Avatar ![Head](assets/images/Icon_Head.png)*
 
 #### *Creature*
 
@@ -164,7 +187,7 @@ This document is the most updated version of the rules. Many things may not make
 > Tip: Protect your Avatar with other Creatures when possible.
 
 ---
-### *![Triangle](assets/images/Icon_Chevron.png) Body*
+### *Body ![Triangle](assets/images/Icon_Chevron.png)*
 
 #### *Attaching*
 
@@ -183,7 +206,7 @@ This document is the most updated version of the rules. Many things may not make
 - A Creature that is Hybrid has more than one Breed.
 
 ---
-### *![Bone](assets/images/Icon_Bone.png) Action*
+### *Action ![Bone](assets/images/Icon_Bone.png)*
 
 #### *Types*
 
@@ -214,68 +237,38 @@ This document is the most updated version of the rules. Many things may not make
 - Actions can be used to respond opponents.
 
 ---
-### *![Bone](assets/images/Icon_Bone.png) Limb*
+
+### *Limb ![Bone](assets/images/Icon_Bone.png)*
 
 #### *Action*
 
 - Each Creature can only use one Limb card per Breed in an Encounter.
 
 ---
-### *![Bone](assets/images/Icon_Bone.png) Organ*
 
-#### *Action*
+### *Organ ![Bone](assets/images/Icon_Bone.png)*
 
-- Each Creature can only use one Organ card per Breed in an Encounter.
-
----
-### *![Hourglass](assets/images/Icon_Hourglass.png) Event*
-
-#### *Happen*
-
-- Events happen when an Event card is played.
-- They can be played to counter in opponent's turns.
-- Once the turn ends, a played event card is discarded.
-
-#### *Countering*
-
-- Event cards are Instants, unless it's denied on the card.
+Each Creature can only use one Organ card per Breed in an Encounter.
 
 ---
 
-### *![Hourglass](assets/images/Icon_Hourglass.png) Effect*
+### *Event ![Hourglass](assets/images/Icon_Hourglass.png)*
 
-#### *Activating*
-
-- You activate the effects on an Effect card when you play it.
-- An active Effect card remains on your field, unles removed by another card.
-- They can be played to counter in opponent's turns.
+- They can be played to counter an opponent in their turn.
 
 ---
 
-### *![Square](assets/images/Icon_Square.png) Location*
+### *Effect ![Hourglass](assets/images/Icon_Hourglass.png)*
 
-#### *Current*
-
-- Each player may have a current Location of their own.
-- When you play a Location card, the last Location is discarded.
-
-#### *Effects*
-
-- They are described on the card.
+- Effect cards remain on the field unless removed.
+- They can be played to counter an opponent in their turn.
 
 ---
 
-### *Definitions*
+### *Location ![Square](assets/images/Icon_Square.png)*
 
-#### *Breed*
-
-- Most cards are classified by their Breed, or they are Generic.
-- The purpose for this is varied, but it is mainly for targeting spells.
-
-#### *Hybrid*
-
-- A Creature is considered Hybrid when it has a Body attached.
-- Hybrids may also be refered to by the Breed of their Body.
+- Each player may have a Location.
+- When you play a Location card, it replaces your last one.
 
 ---
 
