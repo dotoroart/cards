@@ -287,12 +287,11 @@ Cards may be of any of 6 Colors:
 ---
 
 ## *Mechanics*
-> NOTE: These might add a bit too much complexity, but I'm exploring the possibility.
+> NOTE: These might add a bit too much complexity. Just exploring the possibility.
 
 - Cards have special mechanics attached if they have keywords in their text.
 
-### *Creatures*
-> May have any of the following:
+Creatures may have any of the following:
 
 #### Unsatiable
 - Untaps after an Encounter.
@@ -303,7 +302,7 @@ Cards may be of any of 6 Colors:
 #### *Flying*
 - Can Encounter the opponent's Avatar directly, unless prevented by another Creature with flying.
 
-### *Submerging*
+#### *Submerging*
 - Can Encounter the opponent's Avatar directly, unless prevented by another Creature with submerging.
 
 #### *Leader*
