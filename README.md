@@ -287,10 +287,9 @@ Cards may be of any of 6 Colors:
 ---
 
 ## *Mechanics*
+> NOTE: These might add a bit too much complexity, but I'm exploring the possibility.
 
 - Cards have special mechanics attached if they have keywords in their text.
-
-> NOTE: These add complexity to the game, which might not be desired...
 
 ### *Creatures*
 > May have any of the following:
@@ -301,26 +300,28 @@ Cards may be of any of 6 Colors:
 #### Inexhaustible
 - Doesn't succumb to pleasure in an Encounter.
 
-#### Caregiver X
-- Give +X/+X to another Creature while they are on the field.
-
-#### Milk X
-- Tap, give +1/+1 to X Creatures this turn.
-
-#### *Heat*
-- Gets +1/+1 in Encounters with more than one opponent Creature.
-
-#### *Leader*
-- Gives +1/+1 to all Creatures you control.
-
-#### *Breeder*
-- Gets +1/+1 in Encounters with another Creature of their Species.
-
 #### *Flying*
 - Can Encounter the opponent's Avatar directly, unless prevented by another Creature with flying.
 
-### *Submerge*
-- Can Encounter the opponent's Avatar directly, unless prevented by another Creature with submerge.
+### *Submerging*
+- Can Encounter the opponent's Avatar directly, unless prevented by another Creature with submerging.
+
+#### *Leader*
+- Gives +1/+1 to all Creatures you control while they are in play..
+
+#### *Breeder*
+- Gets +1/+1 when there is another Creature of their Species in play that turn.
+
+#### *Heat*
+- Gets +1/+1 in Encounters with more than one opponent Creature that turn.
+
+#### *Caregiver X*
+- Gives +X/+X to another Creature while they are in play.
+
+#### *Milk X*
+- Tap, give +1/+1 to X Creatures this turn.
+
+
 
 ---
 
