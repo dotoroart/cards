@@ -139,15 +139,14 @@ This document is the most updated version of the rules. Many things may not make
 
 ---
 
-### *Creature ![Head](assets/images/Icon_Head.png)*
+### *Character ![Head](assets/images/Icon_Head.png)*
 
 #### *Calling*
 
-- When you play a Character card you *call them* onto the field.
-- You can call Characters during your turn.
-- You must first pay their mana cost.
+- A Character is a Creature.
+- When you play a Creature you *call them* onto the field.  
 
-#### *Tapped*
+#### *Tapping*
 
 - When a creature is **tapped** it cannot attack until the next turn.
 - Characters get tapped:
@@ -158,15 +157,6 @@ This document is the most updated version of the rules. Many things may not make
 
 - A Creature is considered Hybrid when it has a Body attached.
 - Hybrids may also be refered to by the Breed of their Body.
-
-
----
-
-### *Character ![Head](assets/images/Icon_Head.png)*
-
-#### *Creature*
-
-- A Character is a Creature
 
 ---
 ### *Avatar ![Head](assets/images/Icon_Head.png)*
