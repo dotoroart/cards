@@ -253,7 +253,7 @@ This document is the most updated version of the rules. Many things may not make
 
 ---
 
-### *Effect ![Asterisk](assets/images/Icon_Asterisk.png)*
+### *Effect ![Asterisk](assets/images/Icon_Diamond.png)*
 
 - They remain on the field unless removed.
 - They can be played to counter an opponent in their turn.
