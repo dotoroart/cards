@@ -286,41 +286,45 @@ Cards may be of any of 6 Colors:
 
 ---
 
-## *Mechanics*
+### *Mechanics*
 > NOTE: These might add a bit too much complexity. Just exploring the possibility.
 
-- Cards have special mechanics attached if they have keywords in their text.
+Cards have special mechanics attached if they have keywords in their text.
 
-Creatures may have any of the following:
+### Creature
 
 #### Unsatiable
-- Untaps after an Encounter.
+Untaps after an Encounter.
 
 #### Inexhaustible
-- Doesn't succumb to pleasure in an Encounter.
+Doesn't succumb to pleasure in an Encounter.
 
 #### *Flying*
-- Can Encounter the opponent's Avatar directly, unless prevented by another Creature with flying.
+Can Encounter the opponent's Avatar directly, unless prevented by another Creature with flying.
 
 #### *Submerging*
-- Can Encounter the opponent's Avatar directly, unless prevented by another Creature with submerging.
+Can Encounter the opponent's Avatar directly, unless prevented by another Creature with submerging.
 
 #### *Leader*
-- Gives +1/+1 to all Creatures you control while they are in play..
+Gives +1/+1 to all Creatures you control while they are in play.
 
 #### *Breeder*
-- Gets +1/+1 when there is another Creature of their Species in play that turn.
+Gets +1/+1 when there is another Creature of their Species in play that turn.
 
 #### *Heat*
-- Gets +1/+1 in Encounters with more than one opponent Creature that turn.
+Gets +1/+1 in Encounters with more than one opponent Creature that turn.
 
 #### *Caregiver X*
-- Gives +X/+X to another Creature while they are in play.
+Gives +X/+X to another Creature while they are in play.
 
 #### *Milk X*
-- Tap, give +1/+1 to X Creatures this turn.
+Tap, give +1/+1 to X Creatures this turn.
 
+#### *Pillager*
+Tap, take control of an effect.
 
+#### *Climber*
+May encounter an opponent's Avatar skipping other other Creatures.
 
 ---
 
