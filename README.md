@@ -155,12 +155,17 @@ This document is the most updated version of the rules. Many things may not make
 ---
 ### *Action*
 
+#### *Types*
+
+- There are various types of Action cards.
+- Action cards are identifiable by the category icon of a bone *![Bone](assets/images/Icon_Bone.png)*
+
 #### *Performing*
 - When an Action card is played, it is performed by a Creature.
-- Actions can only be performed by Creatures matching that Breed.
-- Actions can be performed by Creatures of any sex.
-- Some Human Actions must be performed by a specific sex.
-- Creatures can only perform **one** Action per each of their Breeds in an  Encounter.
+- Actions can only be performed by Creatures matching their Breed.
+- Human Actions must be performed by their specific sex.
+- All the other Actions can be performed by any sex, regardless.
+- Creatures can only perform **one** Action of that category per each of their Breeds in an Encounter.
 - 
 #### *Shapeshifters*
 - *Your Avatar can perform Actions of any Breed*
